@@ -17,7 +17,8 @@ A responsive front-end clone of Spotify built with **HTML**, **CSS**, and **Java
 - 🎵 Dynamic song list loading
 - 📱 Fully responsive design
 - 🎨 Clean UI with hover animations
-[screenshot](spotify.png)
+
+![Screenshot1](spotify.png)
 ## 🚀 Getting Started
 
 ### Clone & Run Locally
